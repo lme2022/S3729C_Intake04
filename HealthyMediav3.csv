@@ -1,0 +1,41 @@
+ID,Age,Gender,InformationUseful,VideoDuration,ImproveExerciseKnowledge,UnderstandExerciseImportance,KnowHowToExercise,RecommendVideo,HealthExpertsUseful
+1,50-59,Male,Strongly Agree,Agree,Agree,Agree,Agree,Agree,Agree
+2,Below 50,Male,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Agree
+3,Below 50,Female,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+4,Below 50,Female,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+5,Below 50,Male,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree
+6,Below 50,Female,Strongly Agree,Neutral,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree
+7,50-59,Female,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+8,50-59,Female,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+9,50-59,Male,Neutral,Neutral,Agree,Strongly Agree,Agree,Agree,Agree
+10,50-59,Female,Agree,Agree,Agree,Agree,Agree,Neutral,Agree
+11,50-59,Female,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+12,60-69,Female,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+13,50-59,Male,Strongly Agree,Agree,Agree,Strongly Agree,Agree,Strongly Agree,Agree
+14,60-69,Female,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+15,Below 50,Male,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+16,60-69,Male,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+17,50-59,Female,Agree,Neutral,Agree,Agree,Agree,Neutral,Neutral
+18,Below 50,Male,Agree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+19,50-59,Male,Agree,Neutral,Agree,Agree,Agree,Neutral,Neutral
+20,50-59,Female,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree
+21,50-59,Male,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+22,Below 50,Female,Agree,Disagree,Agree,Strongly Agree,Agree,Agree,Neutral
+23,Below 50,Female,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+24,50-59,Male,Agree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+25,50-59,Male,Agree,Neutral,Agree,Agree,Agree,Agree,Agree
+26,50-59,Female,Agree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree
+27,Below 50,Male,Agree,Neutral,Agree,Strongly Agree,Agree,Neutral,Agree
+28,50-59,Female,Strongly Agree,Agree,Agree,Agree,Agree,Agree,Strongly Agree
+29,60-69,Female,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+30,50-59,Female,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+31,50-59,Female,Agree,Neutral,Agree,Agree,Agree,Agree,Agree
+32,50-59,Female,Strongly Agree,Agree,Agree,Strongly Agree,Strongly Agree,Agree,Agree
+33,60-69,Female,Strongly Agree,Neutral,Agree,Agree,Agree,Agree,Agree
+34,60-69,Female,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+35,50-59,Female,Agree,Agree,Strongly Agree,Strongly Agree,Agree,Agree,Agree
+36,60-69,Male,Agree,Agree,Agree,Agree,Agree,0,Agree
+37,70-79,Female,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+38,60-69,Female,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+39,50-59,Female,Strongly Agree,Agree,Agree,Agree,Strongly Agree,Agree,Strongly Agree
+40,60-69,Female,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
