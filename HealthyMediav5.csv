@@ -1,0 +1,41 @@
+ID,Gender,InformationUseful,VideoDuration,ImproveExerciseKnowledge,UnderstandExerciseImportance,KnowHowToExercise,RecommendVideo,HealthExpertsUseful
+1 50-59,Male,5,4,4,4,4,4,4
+2 Below 50,Male,5,4,5,4,5,4,4
+3 Below 50,Female,5,5,5,5,5,5,5
+4 Below 50,Female,5,5,5,5,5,5,5
+5 Below 50,Male,5,4,5,5,5,5,4
+6 Below 50,Female,5,3,4,5,5,5,4
+5 50-59,Female,5,5,5,5,5,5,5
+8 50-59,Female,5,5,5,5,5,5,5
+9 50-59,Male,3,3,4,5,4,4,4
+10 50-59,Female,4,4,4,4,4,3,4
+11 50-59,Female,5,5,5,5,5,5,5
+12 60-69,Female,5,5,5,5,5,5,5
+13 50-59,Male,5,4,4,5,4,5,4
+14 60-69,Female,5,4,5,5,5,5,5
+15 Below 50,Male,4,4,4,4,4,4,4
+16 60-69,Male,5,5,5,5,5,5,5
+17 50-59,Female,4,3,4,4,4,3,3
+18 Below 50,Male,4,3,5,5,5,4,5
+19 50-59,Male,4,3,4,4,4,3,3
+20 50-59,Female,5,5,5,4,4,5,4
+21 50-59,Male,5,4,5,5,5,4,5
+22 Below 50,Female,4,2,4,5,4,4,3
+23 Below 50,Female,5,5,5,5,5,5,5
+24 50-59,Male,4,4,5,5,4,5,5
+25 50-59,Male,4,3,4,4,4,4,4
+26 50-59,Female,4,3,5,5,5,4,4
+27 Below 50,Male,4,3,4,5,4,3,4
+28 50-59,Female,5,4,4,4,4,4,5
+29 60-69,Female,4,4,4,4,4,4,4
+30 50-59,Female,5,5,5,5,5,5,5
+31 50-59,Female,4,3,4,4,4,4,4
+32 50-59,Female,5,4,4,5,5,4,4
+33 60-69,Female,5,3,4,4,4,4,4
+34 60-69,Female,4,4,4,4,4,4,4
+35 50-59,Female,4,4,5,5,4,4,4
+36 60-69,Male,4,4,4,4,4,0,4
+37 70-79,Female,5,5,5,5,5,5,5
+38 60-69,Female,4,4,4,4,4,4,4
+39 50-59,Female,5,4,4,4,5,4,5
+40 60-69,Female,5,5,5,5,5,5,5
